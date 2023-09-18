@@ -1,5 +1,12 @@
 # test-changeset
 
+## 1.1.1
+
+### Patch Changes
+
+- patch 11
+- patch 12
+
 ## 1.1.0
 
 ### Minor Changes
