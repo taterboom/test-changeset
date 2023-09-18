@@ -1,5 +1,11 @@
 # test-changeset
 
+## 1.1.2
+
+### Patch Changes
+
+- after changesets/changelog-git
+
 ## 1.1.1
 
 ### Patch Changes
